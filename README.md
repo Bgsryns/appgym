@@ -157,3 +157,4 @@ POST http://127.0.0.1:8000/api/v1/device/check-out
         "rfid_card": "RFID-6763C0FBE580C"
     }
 ZapaC8g4IRTMyxvzdqd1WZpc8KogCAyC
+5hZHEHDV1iVjEzPR3m5fwYOQxwzy9KaA
